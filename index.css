@@ -33,7 +33,7 @@ footer {
   height: 100vh;
 }
 .item{
-  flex-basis: 1000px;
+  flex-basis: 200px;
   height: 100px;
   width: 100px;
   margin: 50px;
